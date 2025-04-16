@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/cep-teste.git
+git clone hhttps://github.com/guivares/teste-ceps.git
 cd cep-teste
 pip install -r requirements.txt
 python main.py
